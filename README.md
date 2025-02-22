@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ahmaj, an <a href="www.linkedin.com/in/ahmaj-thompson-0a7b402b4">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ahmaj, an <a href="https://www.linkedin.com/in/ahmaj-thompson-0a7b402b4">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
