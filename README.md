@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/ahmaj-thompson-0a7b402b4
+[linkedin]: https://www.linkedin.com/in/ahmaj-thompson-0a7b402b4
